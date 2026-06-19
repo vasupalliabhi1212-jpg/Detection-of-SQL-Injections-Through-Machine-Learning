@@ -1,0 +1,7 @@
+flask
+flask-cors
+scikit-learn
+werkzeug
+pickle-mixin
+Pillow
+python-dotenv
